@@ -1,14 +1,14 @@
-# 🎓 Devtown Machine Learning Mastery
+#  Devtown Machine Learning Mastery
 
 A comprehensive machine learning project demonstrating end-to-end data analysis and model comparison using customer retail data.
 
-## 📋 Project Overview
+##  Project Overview
 
 This repository contains machine learning projects and bootcamp exercises focused on building, training, and evaluating classification and regression models. The primary dataset contains customer retail transaction data with features like quantity, unit price, and geographic location.
 
 ---
 
-## 📊 Notebooks
+##  Notebooks
 
 ### 1. **ML_Retail_Project.ipynb** - Final ML Project
 The main capstone project that builds and compares multiple machine learning classifiers.
@@ -21,9 +21,9 @@ The main capstone project that builds and compares multiple machine learning cla
 - Model evaluation and comparison
 
 **Key Models:**
-- 🔵 **Logistic Regression** - Baseline classifier
-- 🌳 **Decision Tree** - Tree-based classification
-- 👥 **K-Nearest Neighbors (KNN)** - Distance-based classifier
+-  **Logistic Regression** - Baseline classifier
+-  **Decision Tree** - Tree-based classification
+-  **K-Nearest Neighbors (KNN)** - Distance-based classifier
 
 **Features Analyzed:**
 - Quantity (number of items purchased)
@@ -58,7 +58,7 @@ Introductory notebook covering fundamental ML concepts.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 **File:** `customer_retail_csv_file.csv`
 
@@ -80,7 +80,7 @@ Introductory notebook covering fundamental ML concepts.
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 **Libraries Used:**
 ```
@@ -98,7 +98,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone or download the repository**
    ```bash
@@ -118,42 +118,42 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## 📈 Project Workflow
+##  Project Workflow
 
 ### ML_Retail_Project Flow:
-1. ✅ Import libraries
-2. ✅ Load dataset
-3. ✅ Exploratory Data Analysis (EDA)
-4. ✅ Data preprocessing & feature encoding
-5. ✅ Train-test split
-6. ✅ Train multiple classifiers
-7. ✅ Evaluate and compare models
-8. ✅ Visualize results
+1.  Import libraries
+2.  Load dataset
+3.  Exploratory Data Analysis (EDA)
+4.  Data preprocessing & feature encoding
+5.  Train-test split
+6.  Train multiple classifiers
+7.  Evaluate and compare models
+8.  Visualize results
 
 ---
 
-## 🎯 Key Learning Outcomes
+##  Key Learning Outcomes
 
 After completing these notebooks, you'll understand:
 
-✨ **Data Science Fundamentals**
+ **Data Science Fundamentals**
 - Loading and exploring datasets
 - Data cleaning and preprocessing
 - Feature engineering techniques
 
-✨ **Machine Learning Concepts**
+ **Machine Learning Concepts**
 - Supervised learning (classification)
 - Model training and evaluation
 - Model comparison and selection
 
-✨ **Practical Skills**
+ **Practical Skills**
 - Using scikit-learn for ML workflows
 - Data visualization with matplotlib/seaborn
 - Performance metrics interpretation
 
 ---
 
-## 📊 Model Comparison Results
+##  Model Comparison Results
 
 The ML_Retail_Project compares three classification algorithms:
 
@@ -167,7 +167,7 @@ The ML_Retail_Project compares three classification algorithms:
 
 ---
 
-## 💡 Tips for Running the Project
+##  Tips for Running the Project
 
 1. **Start with day1_ML_bootcamp.ipynb** if you're new to ML
 2. **Then move to ML_Retail_Project.ipynb** for advanced concepts
@@ -177,7 +177,7 @@ The ML_Retail_Project compares three classification algorithms:
 
 ---
 
-## 🔗 Resources
+##  Resources
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Pandas Documentation](https://pandas.pydata.org/)
@@ -186,13 +186,13 @@ The ML_Retail_Project compares three classification algorithms:
 
 ---
 
-## 📝 License
+##  License
 
 This project is part of the Devtown Machine Learning Mastery curriculum.
 
 ---
 
-## ✍️ Author
+##  Author :NEHEMIE ISHIMWE
 
 Created as part of machine learning bootcamp and mastery program.
 
